@@ -1,4 +1,4 @@
-# [AngularJS BoilerPlate]
+# ParallaxJS with AngularJS
 
 Built on top of [http://html5boilerplate.com](http://html5boilerplate.com)
 and AngularJS
